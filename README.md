@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mtorluemke/traffic_control.png?label=ready&title=Ready)](https://waffle.io/mtorluemke/traffic_control)
 
 Traffic Control is an Open Source implementation of a Content Delivery Network.
 
